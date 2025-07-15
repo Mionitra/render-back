@@ -6,3 +6,4 @@ tzdata==2025.2
 gunicorn
 dj-database-url
 django-cors-headers
+djangorestframework
